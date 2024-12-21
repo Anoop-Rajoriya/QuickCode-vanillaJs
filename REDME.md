@@ -1,0 +1,1 @@
+# WebApp name QuickCode buildin Vanilla JavaScript
